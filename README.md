@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1FeDC8FHA8aMRHJgAoCuWhS
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Test the App : https://habit-tracker-gnvxofbapnmecet9yaebqt.streamlit.app   
